@@ -44,6 +44,8 @@ gem 'devise'
 
 gem 'pg'
 
+gem 'linkedin'
+
 group :development, :test do
   gem 'spring-commands-rspec'
   gem 'rspec-rails'

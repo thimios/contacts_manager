@@ -9,5 +9,8 @@
 /log/*.log
 /tmp
 
+# Ignore config files
 /config/database.yml
 /config/secrets.yml
+/config/linkedin.yml
+
