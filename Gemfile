@@ -38,6 +38,12 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'activeadmin', github: 'activeadmin'
+
+gem 'devise'
+
+gem 'pg'
+
 group :development, :test do
   gem 'spring-commands-rspec'
   gem 'rspec-rails'
